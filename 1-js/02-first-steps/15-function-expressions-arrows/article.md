@@ -298,7 +298,7 @@ if (age < 18) {
 } else {
                            // \
   function welcome() {     //  |  
-    alert("Greetings!");   //  |  if age=16, the the execution does not go here,
+    alert("Greetings!");   //  |  if age=16, then the execution does not go here,
   }                        //  |  so this "welcome" is never created
                            // /
 }
